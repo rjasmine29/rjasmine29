@@ -1,0 +1,36 @@
+body {
+  color:yellow;
+  font-size: 12pt;
+  background-color: #291c86;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: monospace, Arial, Cambria;  /* If monospace is not available then will take the next font */
+  text-align: center;
+}
+
+li {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Arial, sans-serif;
+  text-align: center;
+}
+
+.red-font {
+  color: red;
+}
+
+p {
+  color: white;
+  
+}
+
+#first-p {
+  color: purple;
+  font-weight: bold;
+  letter-spacing: 0.1px;
+}
+
+#second-p {
+  color: green;
+}
+
